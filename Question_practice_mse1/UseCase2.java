@@ -29,7 +29,7 @@ class Rectangle extends Shape{
 }
 
 
-public class ShapeTest {
+public class UseCase2 {
     public static void main(String[] args) {
         Shape[] shapes = new Shape[2];
         shapes[0] = new Circle(5.0);
