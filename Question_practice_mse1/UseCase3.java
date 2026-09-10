@@ -16,7 +16,7 @@ static final double TAX_RATE = 0.05;
    Car.totalVehiclesRented++;
       return 500 * days;
 }
-}public class RentalTest { 
+}public class UseCase3 { 
      public static void main(String[] args) {
        Rentable car = new Car();
         Rentable bike = new Bike();
